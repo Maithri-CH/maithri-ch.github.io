@@ -1,0 +1,15 @@
+body {background: #ffffff !important;}
+
+   h1 {color: #535353; font-size:45px;font-weight:600;}
+   span {color: #AF0808; font-size:45px;font-weight:700;}
+ p {color: ##000000;line-height: 1.8;margin: 0 0 15px;}
+ {padding-bottom: 12px;}
+
+/* Social Icons */
+
+#social-gh:hover {color: #4099FF;transition:all .001s;}
+ #social-li:hover {color: #4099FF;transition:all .001s;}
+ #social-fb:hover {color: #4099FF;transition:all .001s;}
+ #social-em:hover {color: #4099FF;transition:all .001s;}
+
+ .footer {position: fixed;left: 0;bottom: 0;width: 100%;background-color: black;color: black;text-align: center; }
